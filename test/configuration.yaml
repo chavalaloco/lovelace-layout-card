@@ -5,10 +5,10 @@ demo:
 lovelace:
   mode: storage
   dashboards:
-    lovelace-views:
+    lovelace-yaml:
       mode: yaml
-      title: views
-      filename: test/lovelace/view.yaml
+      title: yaml
+      filename: lovelace.yaml
 
 input_select:
   test:
